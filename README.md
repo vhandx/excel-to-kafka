@@ -1,2 +1,7 @@
-# excel-to-kafka
-Excel to kafka
+
+
+
+pip install openpyxl
+pip install kafka-python
+
+
